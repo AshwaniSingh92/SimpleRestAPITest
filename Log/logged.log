@@ -1,0 +1,56 @@
+[INFO] : 2017-05-07 22:48:14,060 : com.TestService.Testit.AppTest :Hitting with GET request
+[INFO] : 2017-05-07 22:48:16,860 : com.TestService.Testit.AppTest :GET request successful
+[INFO] : 2017-05-07 22:48:16,864 : com.TestService.Testit.AppTest :Generating the Response Code
+[INFO] : 2017-05-07 22:48:16,864 : com.TestService.Testit.AppTest :Status code Received200
+[INFO] : 2017-05-07 22:48:16,877 : com.TestService.Testit.AppTest :Hitting with GET request
+[INFO] : 2017-05-07 22:48:16,941 : com.TestService.Testit.AppTest :GET request successful
+[INFO] : 2017-05-07 22:48:16,949 : com.TestService.Testit.AppTest :Generating the JSON STRING
+[INFO] : 2017-05-07 22:48:17,041 : com.TestService.Testit.AppTest :Hitting with GET request
+[INFO] : 2017-05-07 22:48:17,107 : com.TestService.Testit.AppTest :GET request successful
+[INFO] : 2017-05-07 22:48:17,108 : com.TestService.Testit.AppTest :updating the json file with new dataset with id:3: Author: Warmachine:Titlejson-server2
+[INFO] : 2017-05-07 22:48:18,159 : com.TestService.Testit.AppTest :Dataset Update successful
+[INFO] : 2017-05-07 22:48:18,166 : com.TestService.Testit.AppTest :Posts fetched from Server{
+  "id": 3,
+  "title": "json-server2",
+  "author": "Warmachine"
+}
+[INFO] : 2017-05-07 22:48:18,181 : com.TestService.Testit.AppTest :Hitting with GET request
+[INFO] : 2017-05-07 22:48:18,375 : com.TestService.Testit.AppTest :GET request successful
+[INFO] : 2017-05-07 22:48:18,378 : com.TestService.Testit.AppTest :Patching the information on id :3
+[INFO] : 2017-05-07 22:48:18,504 : com.TestService.Testit.AppTest :Patch Successful with info{
+  "id": 3,
+  "title": "Title updated by put request",
+  "author": "Warmachine"
+}
+[INFO] : 2017-05-07 22:48:18,521 : com.TestService.Testit.AppTest :Hitting with GET request
+[INFO] : 2017-05-07 22:48:18,595 : com.TestService.Testit.AppTest :GET request successful
+[INFO] : 2017-05-07 22:48:18,600 : com.TestService.Testit.AppTest :Deleting the post with id: 3
+[INFO] : 2017-05-07 22:48:18,738 : com.TestService.Testit.AppTest :Delete Successful{}
+[INFO] : 2017-05-07 22:49:06,544 : com.TestService.Testit.AppTest :Hitting with GET request
+[INFO] : 2017-05-07 22:49:09,695 : com.TestService.Testit.AppTest :GET request successful
+[INFO] : 2017-05-07 22:49:09,695 : com.TestService.Testit.AppTest :Generating the Response Code
+[INFO] : 2017-05-07 22:49:09,696 : com.TestService.Testit.AppTest :Status code Received200
+[INFO] : 2017-05-07 22:49:09,706 : com.TestService.Testit.AppTest :Hitting with GET request
+[INFO] : 2017-05-07 22:49:09,753 : com.TestService.Testit.AppTest :GET request successful
+[INFO] : 2017-05-07 22:49:09,774 : com.TestService.Testit.AppTest :Generating the JSON STRING
+[INFO] : 2017-05-07 22:49:09,835 : com.TestService.Testit.AppTest :Hitting with GET request
+[INFO] : 2017-05-07 22:49:09,894 : com.TestService.Testit.AppTest :GET request successful
+[INFO] : 2017-05-07 22:49:09,904 : com.TestService.Testit.AppTest :updating the json file with new dataset with id:3: Author: Warmachine:Titlejson-server2
+[INFO] : 2017-05-07 22:49:10,701 : com.TestService.Testit.AppTest :Dataset Update successful
+[INFO] : 2017-05-07 22:49:10,703 : com.TestService.Testit.AppTest :Posts fetched from Server{
+  "id": 3,
+  "title": "json-server2",
+  "author": "Warmachine"
+}
+[INFO] : 2017-05-07 22:49:10,720 : com.TestService.Testit.AppTest :Hitting with GET request
+[INFO] : 2017-05-07 22:49:10,787 : com.TestService.Testit.AppTest :GET request successful
+[INFO] : 2017-05-07 22:49:10,790 : com.TestService.Testit.AppTest :Patching the information on id :3
+[INFO] : 2017-05-07 22:49:10,888 : com.TestService.Testit.AppTest :Patch Successful with info{
+  "id": 3,
+  "title": "Title updated by put request",
+  "author": "Warmachine"
+}
+[INFO] : 2017-05-07 22:49:10,897 : com.TestService.Testit.AppTest :Hitting with GET request
+[INFO] : 2017-05-07 22:49:10,948 : com.TestService.Testit.AppTest :GET request successful
+[INFO] : 2017-05-07 22:49:10,952 : com.TestService.Testit.AppTest :Deleting the post with id: 3
+[INFO] : 2017-05-07 22:49:11,211 : com.TestService.Testit.AppTest :Delete Successful{}
